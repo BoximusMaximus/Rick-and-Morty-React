@@ -1,9 +1,8 @@
-import Navbar from "./Navbar"
+
 
 function AboutPage(){
     return (
         <>
-            <Navbar/>
             <div>
                 <h3>
                     Welcome to the Rick and Morty about page

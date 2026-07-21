@@ -1,9 +1,7 @@
-import Navbar from "./Navbar"
 
 function Homepage(){
     return (
         <>
-            <Navbar/>
             <h1>
                 Homepage!
             </h1>
@@ -14,7 +12,7 @@ function Homepage(){
             </div>
             <div>
                 <p>
-                    This project is showing my skills with the REACT ROUTER DOM
+                    Rick and Morty is a show about a sociopathic scientist who drags his unintelligent grandson on insanely dangerous adventures across the universe. Wanna see?
                 </p>
             </div>
             <div>
